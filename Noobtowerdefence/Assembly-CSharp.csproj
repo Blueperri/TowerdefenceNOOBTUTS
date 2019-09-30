@@ -68,25 +68,25 @@
     <Compile Include="Assets\Scripts\Monster.cs" />
     <Compile Include="Assets\Scripts\Spawn.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -272,13 +272,13 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>Y:/AA___Opiskelijat (172.17.28.7)/Peli19/Ville Tikkanen/RISKI/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Peli19VilleTProjektit/TowerdefenceNOOBTUTS/Noobtowerdefence/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
